@@ -1,0 +1,5 @@
+{
+  "platformio-ide.disablePIOHomeStartup": false,
+  "platformio-ide.reopenSerialMonitorDelay": 3000,
+  "cmake.sourceDirectory": "D:/git/esp8266/wifi-chanals/.pio/libdeps/esp12e/ESP8266 and ESP32 OLED driver for SSD1306 displays"
+}
